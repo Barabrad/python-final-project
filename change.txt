@@ -1,0 +1,5 @@
+//Item, +/- Quantity
+Cucumbers, + 60
+Onions, + 5
+Lettuce, + 12
+Tomatoes, - 2
