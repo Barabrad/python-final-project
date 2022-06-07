@@ -1,6 +1,6 @@
 # Brad Barakat
-# ITP 499, 11:00-11:50a.m.
-# This program will make an updated inventory file using an old inventory file and a changes file
+# Python for Programmers
+# This program will make an updated inventory file using an old inventory file and a changes file, but without a GUI
 
 import datetime
 import numpy
