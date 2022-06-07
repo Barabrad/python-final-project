@@ -1,5 +1,5 @@
 # Brad Barakat
-# Python for Programmers
+# ITP 499, Spring 2021
 # This program will make an updated inventory file using an old inventory file and a changes file
 
 import datetime
