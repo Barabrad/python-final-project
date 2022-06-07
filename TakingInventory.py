@@ -1,5 +1,5 @@
 # Brad Barakat
-# ITP 499, 11:00-11:50a.m.
+# Python for Programmers
 # This program will make an updated inventory file using an old inventory file and a changes file
 
 import datetime
